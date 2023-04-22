@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           data-TestId = "learn-link"
         >
-          Learn testing 
+          Learn testing and learning with fun
         </a>
       </header>
     </div>
